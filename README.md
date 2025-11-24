@@ -1,2 +1,10 @@
-# 100-Days-DSA-CPP
-My journey to solve 100 Data Structures &amp; Algorithms problems using C++.
+# 100 Days of DSA in C++
+
+Welcome to my 100 Days DSA Challenge!
+
+## 🗓️ Day 0 - Getting Started
+- Repository created
+- First file committed
+- Will start solving problems from tomorrow
+
+Stay tuned for daily updates!
