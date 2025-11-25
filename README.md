@@ -8,3 +8,10 @@ Welcome to my 100 Days DSA Challenge!
 - Will start solving problems from tomorrow
 
 Stay tuned for daily updates!
+
+##🗓️ **Day 1** – Sum of Array 
+
+Solved the “Sum of Array” problem
+Practiced basic loop traversal
+Added the solution file in day1/solution.cpp
+Will continue with the next problem tomorrow.”
