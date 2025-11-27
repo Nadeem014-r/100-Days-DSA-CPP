@@ -10,9 +10,9 @@ class Solution {
 
         while(n>0)
         {
-            digit=n%10;
-            reverse=reverse*10+digit;
-            n=n/10;
+            digit=n%10; // extract last digit.
+            reverse=reverse*10+digit;  // add digit to reversed number.
+            n=n/10; // remove last digit.
         }
         return reverse;
     }
