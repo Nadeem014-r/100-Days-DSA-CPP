@@ -25,3 +25,14 @@ Added the solution file in day2/solution.cpp
 Moving ahead with more number-based problems tomorrow!
 
 
+##🗓️ **Day 3**– Reverse Digits of a Number
+
+Solved the “Reverse Digits of a Number” problem
+Practiced modulus and integer manipulation
+Improved understanding of number-based logic building
+Added the solution file in day3/solution.cpp
+Moving ahead with more number-based problems tomorrow!!
+Step by step, staying consistent on this 100-day journey! 💪🔥
+
+
+
