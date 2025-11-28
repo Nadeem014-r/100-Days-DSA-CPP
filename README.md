@@ -35,4 +35,15 @@ Moving ahead with more number-based problems tomorrow!!
 Step by step, staying consistent on this 100-day journey! 💪🔥
 
 
+## 🗓️ **Day 4** – Sum of Digits of a Number
+
+Solved the “Sum of Digits” problem.
+Practiced digit extraction using modulo (%).
+Strengthened loop logic and number manipulation.
+Added the solution file in day4/solution.cpp.
+💡 Little progress is still progress — moving ahead with more number-based problems tomorrow! 🚀
+
+
+
+
 
