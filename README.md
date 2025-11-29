@@ -43,6 +43,15 @@ Strengthened loop logic and number manipulation.
 Added the solution file in day4/solution.cpp.
 💡 Little progress is still progress — moving ahead with more number-based problems tomorrow! 🚀
 
+##🗓️ **Day 5** – Check if a Number is Palindrome
+
+Solved the “Palindrome Number” problem.
+Practiced reversing a number using modulo (%) and division.
+Strengthened understanding of number manipulation and conditional checks.
+Added the solution file in day5/solution.cpp.
+Moving ahead with more number-based problems tomorrow!!
+
+
 
 
 
