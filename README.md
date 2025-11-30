@@ -49,7 +49,17 @@ Solved the “Palindrome Number” problem.
 Practiced reversing a number using modulo (%) and division.
 Strengthened understanding of number manipulation and conditional checks.
 Added the solution file in day5/solution.cpp.
-Moving ahead with more number-based problems tomorrow!!
+Moving ahead with more number-based problems tomorrow inshaAllah!!
+
+
+**🗓️ Day 6** – Count Factors of a Number
+
+Solved the “Count Factors of a Number” problem.
+Implemented both the basic method and an optimized approach using square root logic.
+Learned how factor pairs work and why traversing only up to √n makes the solution faster.
+Added the updated solution file in day6/solution.cpp.
+Little progress every day adds up! 🚀
+Moving ahead with more number-based problems tomorrow inshaAllah!!
 
 
 
