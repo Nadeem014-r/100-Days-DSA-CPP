@@ -62,7 +62,27 @@ Little progress every day adds up! 🚀
 Moving ahead with more number-based problems tomorrow inshaAllah!!
 
 
+**🗓️ Day 7** Prime Number Checker (C++)
 
+This program checks whether a given number is **prime** or not.
+A **prime number** is a natural number greater than 1 that has no positive divisors other than **1** and itself.
+## ✅ Approach
+To determine if a number `n` is prime:
+1. If `n < 2`, it is **not** prime.
+2. Check divisibility from `2` to `sqrt(n)`:
+   - If any number divides `n` completely, then `n` is **not prime**.
+   - We only check till `sqrt(n)` because divisor pairs repeat after that.
+3. If no divisor is found, the number is **prime**.
+## 🧠 Why loop till √n?
+Divisors of a number come in pairs  
+`(a × b = n)`.  
+After `√n`, these pairs start repeating.  
+So checking up to square root is both correct and efficient.
+## ⏱️ Time Complexity
+- **O(√n)** — efficient for large values of `n`.
+## 🧮 Space Complexity
+- **O(1)** — constant space.
+- Moving ahead with more number-based problems tomorrow inshaAllah!!!🚀
 
 
 
