@@ -82,6 +82,21 @@ So checking up to square root is both correct and efficient.
 - **O(√n)** — efficient for large values of `n`.
 ## 🧮 Space Complexity
 - **O(1)** — constant space.
+- Added the updated solution file in day7/solution.cpp.
+- Moving ahead with more number-based problems tomorrow inshaAllah!!!🚀
+
+
+#**🗓️ Day 8** GCD Using Euclid's Algorithm
+
+This repository contains an efficient implementation of the **Greatest Common Divisor (GCD)** using the **Euclidean Algorithm**.
+## 📌 What is GCD?
+The **Greatest Common Divisor** of two numbers is the largest number that divides both of them without leaving a remainder.
+Example:  
+`gcd(24, 36) = 12`
+---
+## 🚀 Algorithm Used: Euclid's Algorithm
+Euclid’s Algorithm is based on the principle:
+Added the updated solution file in day8/solution.cpp.
 - Moving ahead with more number-based problems tomorrow inshaAllah!!!🚀
 
 
