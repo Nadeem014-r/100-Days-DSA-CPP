@@ -101,7 +101,7 @@ Added the updated solution file in day8/solution.cpp.
 
 
 
-#**🗓️ Day 9** Day 9 — Armstrong Number Checker
+**🗓️ Day 9**  Armstrong Number Checker
 
 Today I solved the Armstrong Number problem.
 ✅ What I did
