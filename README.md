@@ -101,3 +101,21 @@ Added the updated solution file in day8/solution.cpp.
 
 
 
+#**🗓️ Day 9** Day 9 — Armstrong Number Checker
+
+Today I solved the Armstrong Number problem.
+✅ What I did
+Counted the total digits in the number
+Extracted each digit using % 10
+Raised each digit to the power of the digit count
+Calculated the sum of these powered digits
+Compared it with the original number to check if it’s an Armstrong number
+🎯 Key Learning
+How to break a number into digits
+Using pow() and loops effectively
+Practicing number-based logic
+Strengthening C++ fundamentals
+- Moving ahead with more number-based problems tomorrow inshaAllah!!!🚀
+
+
+
