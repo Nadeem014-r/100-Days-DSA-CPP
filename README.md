@@ -116,6 +116,18 @@ Using pow() and loops effectively
 Practicing number-based logic
 Strengthening C++ fundamentals
 - Moving ahead with more number-based problems tomorrow inshaAllah!!!🚀
+- 
+
+**🗓️ Day 10** – LCM of Two Numbers
+
+
+Solved the “Least Common Multiple (LCM)” problem
+Used the GCD (Greatest Common Divisor) approach to compute LCM efficiently
+Practiced the concept: LCM(a, b) = (a × b) / GCD(a, b)
+Implemented the logic using the Euclidean Algorithm
+Added the solution file in day10/solution.cpp
+Step by step, staying consistent with number-based problems! 💪🔥
+- Moving ahead with more number-based problems tomorrow inshaAllah!!!🚀
 
 
 
