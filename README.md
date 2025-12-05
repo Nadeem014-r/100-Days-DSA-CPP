@@ -131,7 +131,7 @@ Step by step, staying consistent with number-based problems! 💪🔥
 
 - 
 
-## 🗓️ Day 10 – Sum of Odd and Even Numbers
+## 🗓️ Day 11 – Sum of Odd and Even Numbers
 
 
 **Problem:** Given an integer `n`, return an array containing the sum of odd numbers and even numbers from 1 to `n`. 
