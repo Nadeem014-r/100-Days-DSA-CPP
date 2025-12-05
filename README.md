@@ -129,5 +129,26 @@ Added the solution file in day10/solution.cpp
 Step by step, staying consistent with number-based problems! 💪🔥
 - Moving ahead with more number-based problems tomorrow inshaAllah!!!🚀
 
+- 
+
+## 🗓️ Day 10 – Sum of Odd and Even Numbers
+
+
+**Problem:** Given an integer `n`, return an array containing the sum of odd numbers and even numbers from 1 to `n`. 
+The first element is the sum of odd numbers, and the second element is the sum of even numbers.
+**Approach:**  
+- Loop from 1 to `n`  
+- Keep two variables to store the sum of odd and even numbers  
+- Add numbers to the respective sum based on whether they are odd or even  
+- Return a vector with `[oddSum, evenSum]`
+**Time Complexity:** O(n)  
+**Space Complexity:** O(1)
+**Example:**
+Input: n = 5
+Output: [9, 6] // odd sum = 1+3+5=9, even sum = 2+4=6.
+- Moving ahead with more number-based problems tomorrow inshaAllah!!!
+
+
+
 
 
