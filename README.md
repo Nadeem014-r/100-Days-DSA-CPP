@@ -147,6 +147,16 @@ The first element is the sum of odd numbers, and the second element is the sum o
 Input: n = 5
 Output: [9, 6] // odd sum = 1+3+5=9, even sum = 2+4=6.
 - Moving ahead with more number-based problems tomorrow inshaAllah!!!
+- 
+
+**🗓️ Day 12** – Perfect Number Checker
+
+Solved the “Perfect Number” problem ✅
+Learned how to calculate proper divisors and check sum of divisors
+Optimized using square root method
+Solution added to the repository: day12/solution.cpp
+Stay tuned for more daily coding practice! 💻
+- Moving ahead with more number-based problems tomorrow inshaAllah!!!
 
 
 
