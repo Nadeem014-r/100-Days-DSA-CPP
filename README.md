@@ -49,7 +49,7 @@ Solved the “Palindrome Number” problem.
 Practiced reversing a number using modulo (%) and division.
 Strengthened understanding of number manipulation and conditional checks.
 Added the solution file in day5/solution.cpp.
-Moving ahead with more number-based problems tomorrow inshaAllah!!
+Moving ahead with more number-based problems tomorrow inshaAllah.
 
 
 **🗓️ Day 6** – Count Factors of a Number
@@ -59,7 +59,7 @@ Implemented both the basic method and an optimized approach using square root lo
 Learned how factor pairs work and why traversing only up to √n makes the solution faster.
 Added the updated solution file in day6/solution.cpp.
 Little progress every day adds up! 🚀
-Moving ahead with more number-based problems tomorrow inshaAllah!!
+Moving ahead with more number-based problems tomorrow inshaAllah.
 
 
 **🗓️ Day 7** Prime Number Checker (C++)
@@ -83,7 +83,7 @@ So checking up to square root is both correct and efficient.
 ## 🧮 Space Complexity
 - **O(1)** — constant space.
 - Added the updated solution file in day7/solution.cpp.
-- Moving ahead with more number-based problems tomorrow inshaAllah!!!🚀
+- Moving ahead with more number-based problems tomorrow inshaAllah.🚀
 
 
 #**🗓️ Day 8** GCD Using Euclid's Algorithm
@@ -97,7 +97,7 @@ Example:
 ## 🚀 Algorithm Used: Euclid's Algorithm
 Euclid’s Algorithm is based on the principle:
 Added the updated solution file in day8/solution.cpp.
-- Moving ahead with more number-based problems tomorrow inshaAllah!!!🚀
+- Moving ahead with more number-based problems tomorrow inshaAllah.🚀
 
 
 
@@ -115,7 +115,7 @@ How to break a number into digits
 Using pow() and loops effectively
 Practicing number-based logic
 Strengthening C++ fundamentals
-- Moving ahead with more number-based problems tomorrow inshaAllah!!!🚀
+- Moving ahead with more number-based problems tomorrow inshaAllah.🚀
 - 
 
 **🗓️ Day 10** – LCM of Two Numbers
@@ -127,7 +127,7 @@ Practiced the concept: LCM(a, b) = (a × b) / GCD(a, b)
 Implemented the logic using the Euclidean Algorithm
 Added the solution file in day10/solution.cpp
 Step by step, staying consistent with number-based problems! 💪🔥
-- Moving ahead with more number-based problems tomorrow inshaAllah!!!🚀
+- Moving ahead with more number-based problems tomorrow inshaAllah.🚀
 
 - 
 
@@ -146,7 +146,7 @@ The first element is the sum of odd numbers, and the second element is the sum o
 **Example:**
 Input: n = 5
 Output: [9, 6] // odd sum = 1+3+5=9, even sum = 2+4=6.
-- Moving ahead with more number-based problems tomorrow inshaAllah!!!
+- Moving ahead with more number-based problems tomorrow inshaAllah.
 - 
 
 **🗓️ Day 12** – Perfect Number Checker
@@ -156,7 +156,16 @@ Learned how to calculate proper divisors and check sum of divisors
 Optimized using square root method
 Solution added to the repository: day12/solution.cpp
 Stay tuned for more daily coding practice! 💻
-- Moving ahead with more number-based problems tomorrow inshaAllah!!!
+- Moving ahead with more number-based problems tomorrow inshaAllah.
+
+
+**🗓️ Day 13** – Print Primes in Range
+
+
+Solved the “Print Prime Numbers in a Range” problem.
+Practiced loops, conditionals, and prime number logic.
+Added the solution file at day13/solution.cpp.
+Will continue with the next number based problem tomorrow inshaAllah.
 
 
 
