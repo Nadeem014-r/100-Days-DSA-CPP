@@ -169,5 +169,15 @@ Will continue with the next number based problem tomorrow inshaAllah.
 
 
 
+**🗓️ Day 14** – Nth Fibonacci Number
+
+Solved the “Nth Fibonacci Number” problem
+Practiced iterative approach using a while loop
+Handled base cases and optimized for O(1) space
+Added the solution file in day14/solution.cpp
+Will continue with the next number based problem tomorrow inshaAllah.
+
+
+
 
 
