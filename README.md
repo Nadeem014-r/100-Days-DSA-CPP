@@ -178,6 +178,17 @@ Added the solution file in day14/solution.cpp
 Will continue with the next number based problem tomorrow inshaAllah.
 
 
+## 🗓️ Day 15 – Corner Digit Sum
+
+
+Solved the “Corner Digit Sum” problem by extracting the first and last digit of a number and returning their sum.  
+Handled single-digit cases separately to avoid double counting.  
+Added the solution file in day15/solution.cpp.
+Will continue with the next number based problem tomorrow inshaAllah.
+
+
+
+
 
 
 
