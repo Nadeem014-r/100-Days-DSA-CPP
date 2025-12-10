@@ -188,6 +188,17 @@ Will continue with the next number based problem tomorrow inshaAllah.
 
 
 
+**🗓️ Day 16 **– Strong Number Check
+
+Solved the Strong Number problem
+Practiced digit extraction and factorial calculation
+Implemented a clean and efficient solution in C++
+Added the solution file under day16/solution.cpp
+Continuing the streak! 🚀🔥
+Will continue with the next number based problem tomorrow inshaAllah.
+
+
+
 
 
 
