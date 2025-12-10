@@ -188,7 +188,7 @@ Will continue with the next number based problem tomorrow inshaAllah.
 
 
 
-**🗓️ Day 16 **– Strong Number Check
+**🗓️ Day 16**– Strong Number Check
 
 Solved the Strong Number problem
 Practiced digit extraction and factorial calculation
