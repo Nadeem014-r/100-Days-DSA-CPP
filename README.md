@@ -198,6 +198,15 @@ Continuing the streak! 🚀🔥
 Will continue with the next number based problem tomorrow inshaAllah.
 
 
+**🗓️ Day 17** – Spy Number
+
+Today I solved the Spy Number problem in C++.
+Used basic digit operations like sum and product to check the condition.
+No new concepts—just applying what I learned in earlier days.
+Good practice for number-based logic and loop handling.
+Will continue with the next number based problem tomorrow inshaAllah.
+
+
 
 
 
