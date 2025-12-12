@@ -207,6 +207,14 @@ Good practice for number-based logic and loop handling.
 Will continue with the next number based problem tomorrow inshaAllah.
 
 
+**🗓️ Day 18** — Trailing Zeroes in Factorial
+
+Solved the classic trailing zeroes in n! problem using an efficient mathematical approach.
+Used the idea of counting factors of 5 instead of calculating the full factorial.
+A simple but powerful trick that improves logic and number-theory understanding. 🚀
+Will continue with the next number based problem tomorrow inshaAllah.
+
+
 
 
 
