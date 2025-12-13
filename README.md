@@ -215,6 +215,16 @@ A simple but powerful trick that improves logic and number-theory understanding.
 Will continue with the next number based problem tomorrow inshaAllah.
 
 
+**🗓️ Day 19** — Binary to Decimal Conversion
+
+
+Solved the Binary to Decimal conversion problem using bit manipulation.
+Processed the binary number directly as a string to avoid overflow issues.
+Used powers of 2 with bit shifting for an efficient and clean solution.
+Great practice for understanding number systems and bit logic. 🚀
+Will continue with the next number based problem tomorrow inshaAllah.
+
+
 
 
 
