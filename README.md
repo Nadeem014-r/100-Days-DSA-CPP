@@ -225,6 +225,17 @@ Great practice for understanding number systems and bit logic. 🚀
 Will continue with the next number based problem tomorrow inshaAllah.
 
 
+**🗓️## Day 20** – Decimal to Binary Conversion
+
+
+Learned how to convert a decimal number into binary using repeated division by 2.  
+Focused on understanding remainders and quotient logic instead of using built-in functions.  
+This helped strengthen my basics of number systems and binary representation.
+Will continue with the next number based problem tomorrow inshaAllah.
+
+
+
+
 
 
 
