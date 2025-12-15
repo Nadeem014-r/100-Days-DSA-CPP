@@ -238,7 +238,7 @@ Will continue with the next number based problem tomorrow inshaAllah.
 
 Solved the Happy Number problem and strengthened my understanding of digit manipulation and loops.  
 Focused on clarity and logic rather than shortcuts.  
-Alhamdulillah for the progress so far — **InshaAllah, moving to Arrays from tomorrow** 
+Alhamdulillah for the progress so far — **InshaAllah, moving to Arrays from tomorrow**.✅ 
 
 
 
