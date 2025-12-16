@@ -241,6 +241,16 @@ Focused on clarity and logic rather than shortcuts.
 Alhamdulillah for the progress so far — **InshaAllah, moving to Arrays from tomorrow**.✅ 
 
 
+**🗓️## Day 22** – Linear Search (Arrays)
+
+Alhamdulillah, started learning Arrays today and implemented Linear Search.  
+As usual, beginning from the basics and focusing on array traversal and index-based access.  
+A simple yet important step in building strong DSA fundamentals. 🚀
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
+
 
 
 
