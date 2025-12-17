@@ -249,6 +249,15 @@ A simple yet important step in building strong DSA fundamentals. 🚀
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## 🗓️Day 23** – Count Even and Odd Elements (Arrays)
+
+Alhamdulillah, practiced array traversal by counting even and odd elements.  
+Focused on using simple conditions and loops to strengthen array basics.  
+Continuing to build confidence step by step in my DSA journey. 🚀
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
 
 
 
