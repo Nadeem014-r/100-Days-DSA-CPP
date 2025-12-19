@@ -257,6 +257,16 @@ Continuing to build confidence step by step in my DSA journey. 🚀
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## 🗓️Day 25**– Min & Max of an Array
+
+Solved a basic array problem to find the minimum and maximum elements using a single traversal.  
+The solution is efficient with **O(n)** time complexity and **O(1)** space complexity.
+Continuing to build confidence step by step in my DSA journey. 🚀
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
+
 
 
 
