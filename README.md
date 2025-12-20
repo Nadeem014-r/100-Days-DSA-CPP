@@ -257,11 +257,29 @@ Continuing to build confidence step by step in my DSA journey. 🚀
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## 🗓️Day 24** – Greatest Element in Array
+
+Solved the problem of finding the greatest element in an array.
+Used a single traversal approach with O(n) time complexity.
+Practiced basic array traversal and comparison logic.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
+
 **## 🗓️Day 25**– Min & Max of an Array
 
 Solved a basic array problem to find the minimum and maximum elements using a single traversal.  
 The solution is efficient with **O(n)** time complexity and **O(1)** space complexity.
 Continuing to build confidence step by step in my DSA journey. 🚀
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+**## Day 🗓️26** – Second Largest Element in Array
+
+Solved the problem of finding the second largest element in an array.
+Handled edge cases like duplicate values and missing second largest.
+Used an efficient O(n) time and O(1) space approach.
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
