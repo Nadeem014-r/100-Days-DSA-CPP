@@ -283,6 +283,16 @@ Used an efficient O(n) time and O(1) space approach.
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## 🗓️Day 27** – Check if Array is Sorted
+
+Solved a problem to check whether an array is sorted in ascending order.
+Used a simple iterative approach for efficient comparison.
+Focused on clean logic and edge case handling.
+Time complexity is O(n) with constant space usage.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
 
 
 
