@@ -292,6 +292,15 @@ Time complexity is O(n) with constant space usage.
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## 🗓️Day 28** – Find the Missing Number in Array
+
+Solved the problem of finding the missing number using a mathematical approach.
+Focused on applying basic concepts efficiently without extra space.
+Achieved O(n) time and O(1) space complexity.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
 
 
 
