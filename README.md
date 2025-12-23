@@ -300,6 +300,16 @@ Achieved O(n) time and O(1) space complexity.
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## 🗓️Day 29** – Reverse an Array
+
+Solved the problem of reversing an array using the two-pointer approach.
+Focused on in-place swapping without extra space.
+Improved understanding of basic array manipulation.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
+
 
 
 
