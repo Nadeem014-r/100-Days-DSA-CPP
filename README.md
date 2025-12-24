@@ -309,6 +309,18 @@ Will continue with the next array based problem tomorrow inshaAllah.
 
 
 
+**## 🗓️Day 30** – Check if Array is Perfect (Palindrome)
+
+Solved a problem to check whether an array is a palindrome array using the two-pointer approach.
+Focused on comparing elements from both ends efficiently.
+Strengthened understanding of basic array logic and in-place traversal.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
+
+
+
 
 
 
