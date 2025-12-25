@@ -317,6 +317,15 @@ Strengthened understanding of basic array logic and in-place traversal.
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## 🗓️Day 31**– Minimum and Second Minimum in Array
+
+Solved a problem to find the minimum and second minimum elements in an array.
+Used a single-pass approach for better efficiency.
+Handled edge cases like duplicate values and small array sizes.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
 
 
 
