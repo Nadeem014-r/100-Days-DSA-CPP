@@ -325,7 +325,12 @@ Handled edge cases like duplicate values and small array sizes.
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## 🗓️Day 32** – Find Duplicate Elements in Array
 
+Solved the problem of finding duplicate elements using a hashing approach.
+Used an extra frequency array for simplicity and clarity.
+Achieved O(n) time complexity with O(n) auxiliary space.
+Will continue with the next array based problem tomorrow inshaAllah.
 
 
 
