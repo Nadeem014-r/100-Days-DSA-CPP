@@ -333,6 +333,15 @@ Achieved O(n) time complexity with O(n) auxiliary space.
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## Day 🗓️33** – Count Frequency of an Element in Array
+
+Solved a problem to count how many times a given element appears in an array.
+Used a simple linear traversal approach.
+Focused on clean logic with O(n) time and O(1) space complexity.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
 
 
 
