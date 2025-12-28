@@ -342,6 +342,17 @@ Will continue with the next array based problem tomorrow inshaAllah.
 
 
 
+**## Day 🗓️34** – Optimized Count Frequency in Sorted Array
+
+Modified the Day 33 solution to optimize the time complexity.
+Replaced linear traversal with binary search.
+Reduced time complexity from O(n) to O(log n).
+Focused on improving performance while keeping the logic simple.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
+
 
 
 
