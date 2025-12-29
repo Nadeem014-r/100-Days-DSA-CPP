@@ -351,6 +351,15 @@ Focused on improving performance while keeping the logic simple.
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## Day 🗓️35** – First Occurrence Using Binary Search
+
+Solved the problem of finding the first occurrence of an element in a sorted array.
+Used a modified binary search to continue searching on the left side.
+Achieved O(log n) time complexity with constant space.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
 
 
 
