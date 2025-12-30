@@ -359,6 +359,16 @@ Achieved O(log n) time complexity with constant space.
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## Day 🗓️36**– Segregate Positive and Negative Elements in Array
+
+Solved the problem of segregating positive and negative elements in an array.
+Focused on preserving the original order as required.
+Used extra space to ensure correctness and clarity.
+Achieved O(n) time complexity with O(n) auxiliary space.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
 
 
 
