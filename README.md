@@ -368,6 +368,15 @@ Achieved O(n) time complexity with O(n) auxiliary space.
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## Day 🗓️37**– Union of Two Arrays
+
+Solved the problem of finding the union of two arrays.
+Used a set to store unique elements from both arrays.
+Focused on simplicity, correctness, and handling duplicates.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
 
 
 
