@@ -1,5 +1,3 @@
-<img width="1902" height="1010" alt="image" src="https://github.com/user-attachments/assets/937b36c8-e8d5-4fa4-9cc2-bfbf588f6185" /># 100 Days of DSA in C++
-
 Welcome to my 100 Days DSA Challenge!
 
 ## 🗓️ Day 0 - Getting Started
