@@ -1,4 +1,4 @@
-# 100 Days of DSA in C++
+<img width="1902" height="1010" alt="image" src="https://github.com/user-attachments/assets/937b36c8-e8d5-4fa4-9cc2-bfbf588f6185" /># 100 Days of DSA in C++
 
 Welcome to my 100 Days DSA Challenge!
 
@@ -374,6 +374,16 @@ Solved the problem of finding the union of two arrays.
 Used a set to store unique elements from both arrays.
 Focused on simplicity, correctness, and handling duplicates.
 Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
+**## Day 🗓️38**– Intersection of Two Arrays
+
+Solved the problem of finding the number of common elements between two arrays.
+Used sets to store unique elements and perform fast lookups.
+Focused on clarity, correctness, and handling duplicates efficiently.
+Will continue with the next array based problem tomorrow inshaAllah.
+
 
 
 
