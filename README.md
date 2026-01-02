@@ -383,6 +383,16 @@ Focused on clarity, correctness, and handling duplicates efficiently.
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## Day 🗓️39** – Remove Duplicates from Array
+
+Solved the problem of removing duplicate elements using a set.
+Focused on simplicity and correctness.
+This approach removes duplicates but does not preserve order.
+Will optimize it further using a better approach.
+Will continue with the next array based problem (optimisation of this problem) tomorrow inshaAllah.
+
+
+
 
 
 
