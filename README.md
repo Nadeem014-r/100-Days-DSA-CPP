@@ -393,6 +393,16 @@ Will continue with the next array based problem (optimisation of this problem) t
 
 
 
+**## Day 🗓️40** – Optimized Remove Duplicates from Sorted Array
+
+Optimized the Day 39 solution by removing the use of set.
+Applied a two-pointer approach to preserve order and improve efficiency.
+Reduced time complexity to O(n) with constant extra space.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
+
 
 
 
