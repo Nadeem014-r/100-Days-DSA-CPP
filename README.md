@@ -401,6 +401,15 @@ Reduced time complexity to O(n) with constant extra space.
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## Day 🗓️41** – Move All Zeros to End of Array
+
+Solved the problem of moving all zero elements to the end of the array.
+Used a single traversal to keep the solution efficient.
+Preserved the order of non-zero elements with constant extra space.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
 
 
 
