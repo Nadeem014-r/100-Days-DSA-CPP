@@ -410,6 +410,16 @@ Will continue with the next array based problem tomorrow inshaAllah.
 
 
 
+**## Day  🗓️42**– Left Rotate Array by D Positions
+
+Solved the problem of left rotating an array by D positions.
+Used an auxiliary array with modulo arithmetic for correct indexing.
+Focused on clarity and correctness before optimizing space.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
+
 
 
 
