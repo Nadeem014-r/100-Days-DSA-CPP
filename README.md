@@ -419,6 +419,16 @@ Will continue with the next array based problem tomorrow inshaAllah.
 
 
 
+**## Day  🗓️43** – First Repeated Element in Array
+
+Solved the problem of finding the first repeating element in an array.
+Used hashing to track frequencies efficiently.
+Returned the index of the first repeating element as per problem requirement.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
+
 
 
 
