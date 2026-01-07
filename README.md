@@ -427,6 +427,16 @@ Returned the index of the first repeating element as per problem requirement.
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+## Day 🗓️44 – Quick Sort Algorithm
+
+
+Implemented the Quick Sort algorithm using the Lomuto partition method.
+Focused on understanding pivot placement and recursive sorting.
+Practiced a clean and simple implementation for better clarity.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
 
 
 
