@@ -444,6 +444,15 @@ Focused on understanding how comparisons guide the search direction.
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## Day  🗓️46** – Bubble Sort Algorithm(Arrays)
+
+Implemented the Bubble Sort algorithm using a simple comparison and swap approach.
+Focused on understanding how elements move step by step.
+Practiced a basic sorting technique to strengthen fundamentals.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
 
 
 
