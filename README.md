@@ -452,6 +452,16 @@ Practiced a basic sorting technique to strengthen fundamentals.
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## Day  🗓️47** – Insertion Sort Algorithm(Array)
+
+Implemented the Insertion Sort algorithm to understand incremental sorting.
+Focused on shifting elements and inserting them at the correct position.
+Observed how insertion sort performs efficiently on nearly sorted arrays.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
+
 
 
 
