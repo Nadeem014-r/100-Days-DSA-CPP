@@ -460,6 +460,15 @@ Observed how insertion sort performs efficiently on nearly sorted arrays.
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## 🗓️Day 48** – Selection Sort Algorithm
+
+Implemented the Selection Sort algorithm to understand element selection logic.
+Focused on finding the minimum element and placing it correctly.
+Practiced another fundamental sorting technique to strengthen basics.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
 
 
 
