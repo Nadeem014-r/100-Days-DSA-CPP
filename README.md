@@ -468,6 +468,15 @@ Practiced another fundamental sorting technique to strengthen basics.
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## Day 🗓️49** – Merge Sort Algorithm
+
+Implemented the Merge Sort algorithm using divide and conquer.
+Focused on understanding recursive splitting and merging of arrays.
+Practiced an efficient sorting technique with guaranteed O(n log n) time.
+Will continue with the next array based problem tomorrow inshaAllah.
+
+
+
 
 
 
