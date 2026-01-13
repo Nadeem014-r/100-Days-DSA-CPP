@@ -476,6 +476,15 @@ Practiced an efficient sorting technique with guaranteed O(n log n) time.
 Will continue with the next array based problem tomorrow inshaAllah.
 
 
+**## Day 🗓️50** – Recursion Basics
+
+Started learning recursion fundamentals today.
+Solved array reversal using recursion to understand base and recursive cases.
+Focused on call stack flow and reducing problem size step by step.
+Will continue with the next recursion based problem tomorrow inshaAllah.
+
+
+
 
 
 
