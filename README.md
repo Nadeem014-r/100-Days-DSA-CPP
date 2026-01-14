@@ -484,6 +484,15 @@ Focused on call stack flow and reducing problem size step by step.
 Will continue with the next recursion based problem tomorrow inshaAllah.
 
 
+**## Day 🗓️51** – Palindrome Number Using Recursion
+
+Solved the problem of checking whether a number is palindrome using recursion.
+Focused on reversing the number recursively and comparing results.
+Strengthened understanding of base cases and recursion flow.
+Will continue with the next recursion based problem tomorrow inshaAllah.
+
+
+
 
 
 
