@@ -501,6 +501,15 @@ Strengthened understanding of recursion flow and base cases.
 Will continue with the next recursion based problem tomorrow inshaAllah.
 
 
+**## Day 🗓️53** – Sum of Digits Using Recursion
+
+Solved the problem of finding the sum of digits of a number using recursion.
+Focused on breaking the number digit by digit.
+Strengthened understanding of base cases and recursive flow.
+Will continue with the next recursion based problem tomorrow inshaAllah.
+
+
+
 
 
 
