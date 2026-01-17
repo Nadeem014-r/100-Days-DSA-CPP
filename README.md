@@ -509,6 +509,15 @@ Strengthened understanding of base cases and recursive flow.
 Will continue with the next recursion based problem tomorrow inshaAllah.
 
 
+**## Day 🗓️54** – Nth Fibonacci Using Recursion
+
+Solved the problem of finding the nth Fibonacci number using recursion.
+Focused on understanding recursive definitions and base cases.
+Learned how overlapping recursive calls affect performance.
+Will continue with the next recursion based problem tomorrow inshaAllah.
+
+
+
 
 
 
