@@ -518,6 +518,16 @@ Will continue with the next recursion based problem tomorrow inshaAllah.
 
 
 
+**## Day 🗓️55** – GCD Using Recursion
+
+Solved the problem of finding the GCD of two numbers using recursion.
+Applied Euclid’s algorithm to reduce the problem efficiently.
+Strengthened understanding of recursion in mathematical computations.
+Will continue with the next recursion based problem tomorrow inshaAllah.
+
+
+
+
 
 
 
