@@ -526,6 +526,15 @@ Strengthened understanding of recursion in mathematical computations.
 Will continue with the next recursion based problem tomorrow inshaAllah.
 
 
+**## Day 🗓️56** – Largest Element in Array Using Recursion
+
+Solved the problem of finding the largest element in an array using recursion.
+Focused on comparing current elements with results from recursive calls.
+Strengthened understanding of recursion with array traversal.
+Will continue with the next recursion based problem tomorrow inshaAllah.
+
+
+
 
 
 
