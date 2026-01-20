@@ -535,6 +535,15 @@ Will continue with the next recursion based problem tomorrow inshaAllah.
 
 
 
+**## Day 🗓️57** – Reverse Exponentiation Using Recursion(x^n)
+
+Solved the reverse exponentiation problem using recursion.
+Reversed the number recursively and used it as the exponent.
+Practiced combining recursion with mathematical logic.
+Will continue with the next recursion based problem tomorrow inshaAllah.
+
+
+
 
 
 
