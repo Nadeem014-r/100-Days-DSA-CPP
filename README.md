@@ -559,6 +559,14 @@ Strengthened understanding of recursion flow with simple searching logic.
 Will continue with the next recursion based problem tomorrow inshaAllah.
 
 
+**## Day 🗓️60**– Binary Search Using Recursion
+
+Solved the binary search problem using recursion.
+Focused on dividing the search space at every step.
+Completed recursion basics with an efficient logarithmic approach.
+Will continue with the next recursion based problem tomorrow inshaAllah.
+
+
 
 
 
