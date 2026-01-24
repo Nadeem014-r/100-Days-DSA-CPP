@@ -567,6 +567,15 @@ Completed recursion basics with an efficient logarithmic approach.
 Will continue with the next recursion based problem tomorrow inshaAllah.
 
 
+**## Day 🗓️61** – Sum of Diagonals Using Recursion
+
+Solved the problem of finding the sum of diagonals of a matrix using recursion.
+Traversed the matrix row by row and added diagonal elements.
+Practiced applying recursion to 2D array problems.
+Will continue with the next recursion based problem tomorrow inshaAllah.
+
+
+
 
 
 
