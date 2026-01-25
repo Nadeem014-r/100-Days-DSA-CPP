@@ -575,6 +575,15 @@ Practiced applying recursion to 2D array problems.
 Will continue with the next recursion based problem tomorrow inshaAllah.
 
 
+**## Day  🗓️62** – Count Ways Using Recursion
+
+Solved the staircase problem using basic recursion.
+Focused on understanding recursive breakdown and base cases.
+Learned why naive recursion causes time limit issues and needs optimization.
+Will continue with the next recursion based problem tomorrow inshaAllah.
+
+
+
 
 
 
