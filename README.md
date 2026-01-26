@@ -583,6 +583,15 @@ Learned why naive recursion causes time limit issues and needs optimization.
 Will continue with the next recursion based problem tomorrow inshaAllah.
 
 
+**## Day 🗓️63** – Remove Character from String Using Recursion
+
+Solved the problem of removing all occurrences of a character from a string.
+Used recursion to process the string one character at a time.
+Strengthened understanding of recursion with string manipulation.
+Will continue with the next recursion based problem tomorrow inshaAllah.
+
+
+
 
 
 
