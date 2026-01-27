@@ -590,6 +590,14 @@ Used recursion to process the string one character at a time.
 Strengthened understanding of recursion with string manipulation.
 Will continue with the next recursion based problem tomorrow inshaAllah.
 
+**## Day 🗓️64**– Tower of Hanoi Using Recursion
+
+Solved the Tower of Hanoi problem using recursion.
+Focused on breaking the problem into smaller subproblems.
+Strengthened understanding of recursive thinking and exponential complexity.
+Will continue with the next recursion based problem tomorrow inshaAllah.
+
+
 
 
 
