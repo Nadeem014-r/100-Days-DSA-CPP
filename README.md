@@ -598,6 +598,16 @@ Strengthened understanding of recursive thinking and exponential complexity.
 Will continue with the next recursion based problem tomorrow inshaAllah.
 
 
+**## Day 🗓️65** – String Permutations Using Backtracking
+
+Solved the problem of generating all permutations of a string.
+Used recursion with backtracking to explore all possible arrangements.
+This problem introduced the core concept of backtracking in recursion.
+Will continue with the next recursion based problem tomorrow inshaAllah.
+
+
+
+
 
 
 
