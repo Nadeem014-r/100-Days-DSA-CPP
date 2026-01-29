@@ -606,6 +606,15 @@ This problem introduced the core concept of backtracking in recursion.
 Will continue with the next recursion based problem tomorrow inshaAllah.
 
 
+**## Day 🗓️66**– Josephus Problem Using Recursion
+
+Solved the Josephus problem using a recursive approach.
+Learned how solutions are built by reducing the problem size step by step.
+This problem helped me understand how recursive return values are adjusted.
+Continuing my #100DaysOfDSA journey with strong focus on fundamentals, inshaAllah.
+
+
+
 
 
 
