@@ -615,6 +615,16 @@ Continuing my #100DaysOfDSA journey with strong focus on fundamentals, inshaAlla
 
 
 
+**## Day 🗓️67**– Subsets Using Backtracking
+
+Solved the problem of generating all subsets of an array.
+Used recursion with include and exclude choices at each step.
+This problem helped me clearly understand the backtracking pattern.
+Continuing my #100DaysOfDSA journey inshaAllah with consistency and clarity.
+
+
+
+
 
 
 
