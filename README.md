@@ -623,6 +623,15 @@ This problem helped me clearly understand the backtracking pattern.
 Continuing my #100DaysOfDSA journey inshaAllah with consistency and clarity.
 
 
+**## Day 🗓️68** – Subset Sum Using Recursion
+
+Solved the Subset Sum problem using include and exclude recursion.
+This problem helped me apply the subsets pattern with a target condition.
+Understood why naive recursion leads to exponential complexity.
+This builds a strong foundation for dynamic programming, inshaAllah.
+
+
+
 
 
 
