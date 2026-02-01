@@ -631,6 +631,15 @@ Understood why naive recursion leads to exponential complexity.
 This builds a strong foundation for dynamic programming, inshaAllah.
 
 
+**## Day 🗓️69** – Target Sum Combinations Using Backtracking
+
+Solved the Target Sum Combination problem using recursion and backtracking.
+Learned how index control allows reusing the same element multiple times.
+This problem strengthened my understanding of pruning using target conditions.
+Continuing my #100DaysOfDSA journey with consistency, inshaAllah.
+
+
+
 
 
 
