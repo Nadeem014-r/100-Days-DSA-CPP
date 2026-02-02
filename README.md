@@ -638,6 +638,14 @@ Learned how index control allows reusing the same element multiple times.
 This problem strengthened my understanding of pruning using target conditions.
 Continuing my #100DaysOfDSA journey with consistency, inshaAllah.
 
+**## Day 🗓️70**– Generate Binary Strings Using Recursion
+
+Solved the problem of generating all binary strings of length n.
+Used recursion by making two choices at each step.
+This problem helped me visualize recursion trees clearly.
+Continuing my #100DaysOfDSA journey with consistency, inshaAllah.
+
+
 
 
 
