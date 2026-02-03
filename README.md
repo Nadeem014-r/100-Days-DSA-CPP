@@ -638,12 +638,24 @@ Learned how index control allows reusing the same element multiple times.
 This problem strengthened my understanding of pruning using target conditions.
 Continuing my #100DaysOfDSA journey with consistency, inshaAllah.
 
+
+
 **## Day 🗓️70**– Generate Binary Strings Using Recursion
 
 Solved the problem of generating all binary strings of length n.
 Used recursion by making two choices at each step.
 This problem helped me visualize recursion trees clearly.
 Continuing my #100DaysOfDSA journey with consistency, inshaAllah.
+
+
+
+**## Day 🗓️71**– Permutations of Distinct Elements Using Backtracking
+
+Solved the problem of generating all permutations of an array with distinct elements.
+Used swap-based recursion to explore all possible arrangements.
+This problem clearly demonstrated the choose, explore, and backtrack pattern.
+Continuing my #100DaysOfDSA journey with consistency,inshaAllah.
+
 
 
 
