@@ -658,6 +658,17 @@ Continuing my #100DaysOfDSA journey with consistency,inshaAllah.
 
 
 
+**## Day 🗓️72** – Construct Singly Linked List from Array
+
+Alhamdulillah, I have successfully completed my journey through recursion and backtracking.
+Today, I started learning Linked Lists with Bismillah.
+Solved the problem of constructing a singly linked list from an array.
+Beginning this new data structure with a strong focus on fundamentals and clarity.
+Continuing my #100DaysOfDSA journey with consistency,inshaAllah.
+
+
+
+
 
 
 
