@@ -668,6 +668,16 @@ Continuing my #100DaysOfDSA journey with consistency,inshaAllah.
 
 
 
+**## Day 🗓️73** – Print Elements of Linked List
+
+Alhamdulillah, continuing my Linked List journey.
+Solved the problem of traversing and printing elements of a singly linked list.
+This problem strengthened my understanding of pointer traversal and node access.
+Learning step by step with consistency and clarity, inshaAllah.
+
+
+
+
 
 
 
