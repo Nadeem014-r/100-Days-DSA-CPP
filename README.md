@@ -676,6 +676,14 @@ This problem strengthened my understanding of pointer traversal and node access.
 Learning step by step with consistency and clarity, inshaAllah.
 
 
+**## Day 🗓️74** – Count Nodes in a Linked List
+
+Alhamdulillah, continuing my Linked List practice.
+Solved the problem of counting nodes in a singly linked list.
+This helped reinforce traversal and pointer movement concepts.
+Building strong fundamentals step by step, inshaAllah.
+
+
 
 
 
