@@ -684,6 +684,15 @@ This helped reinforce traversal and pointer movement concepts.
 Building strong fundamentals step by step, inshaAllah.
 
 
+**## Day 🗓️75** – Search Element in Linked List
+
+Alhamdulillah, continuing my Linked List fundamentals.
+Solved the problem of searching for an element in a singly linked list.
+This problem strengthened my understanding of traversal and comparison logic.
+Learning step by step with consistency, inshaAllah.
+
+
+
 
 
 
