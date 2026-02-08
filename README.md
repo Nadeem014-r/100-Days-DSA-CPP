@@ -693,6 +693,15 @@ Learning step by step with consistency, inshaAllah.
 
 
 
+**## Day 🗓️76**– Insert Node at Beginning of Linked List
+
+Alhamdulillah, continuing my Linked List learning journey.
+Solved the problem of inserting a node at the beginning of a singly linked list.
+This problem helped me understand how the head pointer changes during insertion.
+Building confidence in pointer manipulation step by step, inshaAllah.
+
+
+
 
 
 
