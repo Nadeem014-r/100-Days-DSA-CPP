@@ -701,6 +701,15 @@ This problem helped me understand how the head pointer changes during insertion.
 Building confidence in pointer manipulation step by step, inshaAllah.
 
 
+**## Day 🗓️77** – Insert Node at End of Linked List
+
+Alhamdulillah, continuing my Linked List practice.
+Solved the problem of inserting a node at the end of a singly linked list.
+This problem reinforced traversal and pointer linking concepts.
+Learning Linked Lists step by step with consistency, inshaAllah.
+
+
+
 
 
 
