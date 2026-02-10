@@ -709,6 +709,15 @@ This problem reinforced traversal and pointer linking concepts.
 Learning Linked Lists step by step with consistency, inshaAllah.
 
 
+**## Day 🗓️78**– Insert Node at Given Position in Linked List
+
+Alhamdulillah, continuing my Linked List learning journey.
+Solved the problem of inserting a node at a specific position in a singly linked list.
+This problem strengthened my understanding of traversal and pointer updates.
+Building confidence in linked list operations step by step, inshaAllah.
+
+
+
 
 
 
