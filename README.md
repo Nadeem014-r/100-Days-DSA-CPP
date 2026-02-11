@@ -717,6 +717,15 @@ This problem strengthened my understanding of traversal and pointer updates.
 Building confidence in linked list operations step by step, inshaAllah.
 
 
+**## Day 🗓️79** – Delete Node from Linked List
+
+Alhamdulillah, continuing my Linked List learning journey.
+Solved the problem of deleting a node at a given position in a singly linked list.
+This problem helped me understand safe pointer updates and memory handling.
+Building strong fundamentals step by step, inshaAllah.
+
+
+
 
 
 
