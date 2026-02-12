@@ -726,6 +726,15 @@ Building strong fundamentals step by step, inshaAllah.
 
 
 
+**## Day 🗓️80**– Delete Node at Position in Linked List
+
+Alhamdulillah, continuing my Linked List practice.
+Solved the problem of deleting a node at a specific position in a singly linked list.
+This problem strengthened my understanding of traversal and pointer updates during deletion.
+Learning step by step with consistency, inshaAllah.
+
+
+
 
 
 
