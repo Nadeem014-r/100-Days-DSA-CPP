@@ -734,6 +734,15 @@ This problem strengthened my understanding of traversal and pointer updates duri
 Learning step by step with consistency, inshaAllah.
 
 
+**## Day 🗓️81**– Find Middle of Linked List
+
+Alhamdulillah, continuing my Linked List learning journey.
+Solved the problem of finding the middle node using the slow and fast pointer technique.
+This problem helped me understand the two-pointer approach in linked lists.
+Building strong problem-solving fundamentals step by step, inshaAllah.
+
+
+
 
 
 
