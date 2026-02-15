@@ -741,13 +741,23 @@ Solved the problem of finding the middle node using the slow and fast pointer te
 This problem helped me understand the two-pointer approach in linked lists.
 Building strong problem-solving fundamentals step by step, inshaAllah.
 
-**
+
 ## Day 🗓️82** – Reverse a Linked List
 
 Alhamdulillah, continuing my Linked List journey.
 Solved the classic problem of reversing a singly linked list using an iterative approach.
 This problem strengthened my understanding of pointer manipulation.
 Building confidence in linked list patterns step by step, inshaAllah.
+
+
+
+**## Day 🗓️83** – Kth Node from End of Linked List
+
+Alhamdulillah, continuing my Linked List practice.
+Solved the problem of finding the kth node from the end using the two-pointer technique.
+This problem strengthened my understanding of pointer movement and traversal logic.
+Learning step by step with consistency, inshaAllah.
+
 
 
 
