@@ -759,6 +759,15 @@ This problem strengthened my understanding of pointer movement and traversal log
 Learning step by step with consistency, inshaAllah.
 
 
+**## Day 🗓️84**– Palindrome Linked List
+
+Alhamdulillah, continuing my Linked List learning journey.
+Solved the problem of checking whether a linked list is a palindrome.
+This problem combined slow-fast pointer, list reversal, and traversal comparison.
+Strengthening linked list patterns step by step, inshaAllah.
+
+
+
 
 
 
