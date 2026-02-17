@@ -768,6 +768,15 @@ Strengthening linked list patterns step by step, inshaAllah.
 
 
 
+**## Day 🗓️85**– Remove Duplicates from Sorted Linked List
+
+Alhamdulillah, continuing my Linked List learning journey.
+Solved the problem of removing duplicate nodes from a sorted linked list.
+This problem strengthened my understanding of traversal, comparison, and node deletion.
+Learning step by step with consistency, inshaAllah.
+
+
+
 
 
 
