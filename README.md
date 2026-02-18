@@ -776,6 +776,15 @@ This problem strengthened my understanding of traversal, comparison, and node de
 Learning step by step with consistency, inshaAllah.
 
 
+**## Day 🗓️86** – Detect Cycle in Linked List
+
+Alhamdulillah, continuing my Linked List learning journey.
+Solved the problem of detecting a loop in a linked list using Floyd’s cycle detection algorithm.
+This problem strengthened my understanding of the slow and fast pointer technique.
+Learning step by step with consistency, inshaAllah.
+
+
+
 
 
 
