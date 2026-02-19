@@ -785,6 +785,15 @@ Learning step by step with consistency, inshaAllah.
 
 
 
+**## Day 🗓️87** – Find Starting Node of Cycle in Linked List
+
+Alhamdulillah, continuing my Linked List learning journey.
+Solved the problem of finding the starting node of a cycle using Floyd’s algorithm.
+This problem helped me understand how cycle detection extends to locating the cycle start.
+Strengthening linked list pattern knowledge step by step, inshaAllah.
+
+
+
 
 
 
