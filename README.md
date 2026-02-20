@@ -793,6 +793,14 @@ This problem helped me understand how cycle detection extends to locating the cy
 Strengthening linked list pattern knowledge step by step, inshaAllah.
 
 
+**## Day 🗓️88** – Remove Loop from Linked List
+
+Alhamdulillah, continuing my Linked List learning journey.
+Solved the problem of removing a loop from a linked list using Floyd’s algorithm.
+This problem combined cycle detection, locating the loop start, and safely breaking the loop.
+Strengthening linked list pattern understanding step by step, inshaAllah.
+
+
 
 
 
