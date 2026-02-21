@@ -802,6 +802,14 @@ Strengthening linked list pattern understanding step by step, inshaAllah.
 
 
 
+**## Day 🗓️89** – Intersection of Two Linked Lists
+
+Alhamdulillah, continuing my Linked List learning journey.
+Solved the problem of finding intersection elements between two linked lists using hashing.
+This problem strengthened my understanding of traversal and auxiliary data structures.
+Learning step by step with consistency, inshaAllah.
+
+
 
 
 
