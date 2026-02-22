@@ -810,6 +810,13 @@ This problem strengthened my understanding of traversal and auxiliary data struc
 Learning step by step with consistency, inshaAllah.
 
 
+**## Day 🗓️90**– Merge Two Sorted Linked Lists
+
+Alhamdulillah, reached Day 90 of my #100DaysOfDSA journey.
+Solved the problem of merging two sorted linked lists using pointer manipulation.
+This problem strengthened my understanding of traversal and in-place list merging.
+Continuing to build strong data structure fundamentals step by step, inshaAllah.
+
 
 
 
