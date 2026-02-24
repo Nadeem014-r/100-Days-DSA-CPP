@@ -828,6 +828,15 @@ Strengthening algorithmic thinking step by step, inshaAllah.
 
 
 
+**## Day 🗓️92** – Rotate Linked List by k Nodes
+
+Alhamdulillah, continuing my Linked List learning journey.
+Solved the problem of rotating a linked list by k nodes.
+This problem strengthened my understanding of traversal, list splitting, and pointer reconnection.
+Learning step by step with consistency, inshaAllah.
+
+
+
 
 
 
