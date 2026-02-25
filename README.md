@@ -837,6 +837,15 @@ Learning step by step with consistency, inshaAllah.
 
 
 
+**## Day 🗓️93** – Segregate Even and Odd Nodes in Linked List
+
+Alhamdulillah, continuing my Linked List learning journey.
+Solved the problem of segregating even and odd nodes while preserving order.
+This problem strengthened my understanding of pointer manipulation and list partitioning.
+Learning step by step with consistency, inshaAllah.
+
+
+
 
 
 
