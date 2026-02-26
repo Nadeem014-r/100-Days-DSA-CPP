@@ -845,6 +845,13 @@ This problem strengthened my understanding of pointer manipulation and list part
 Learning step by step with consistency, inshaAllah.
 
 
+**## Day 🗓️94** – Flatten a Multi-level Linked List
+
+Alhamdulillah, continuing my Linked List learning journey.
+Solved the problem of flattening a multi-level linked list using recursion and merging.
+This problem strengthened my understanding of complex pointer structures and divide-and-conquer logic.
+Learning step by step with consistency, inshaAllah.
+
 
 
 
