@@ -854,6 +854,14 @@ Learning step by step with consistency, inshaAllah.
 
 
 
+**## Day 🗓️95** – Rearrange Linked List (Alternate Split and Reverse)
+
+Alhamdulillah, continuing my Linked List learning journey.
+Solved the problem of rearranging a linked list by splitting alternate nodes and reversing one part.
+This problem strengthened my understanding of list splitting, reversal, and merging.
+Learning step by step with consistency, inshaAllah.
+
+
 
 
 
