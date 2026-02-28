@@ -862,6 +862,14 @@ This problem strengthened my understanding of list splitting, reversal, and merg
 Learning step by step with consistency, inshaAllah.
 
 
+**## Day 🗓️96** – Delete Nodes with Greater Value on Right
+
+Alhamdulillah, continuing my Linked List learning journey.
+Solved the problem of deleting nodes that have a greater value on the right side.
+This problem combined list reversal, traversal, and conditional deletion logic.
+Strengthening problem-solving skills step by step, inshaAllah.
+
+
 
 
 
